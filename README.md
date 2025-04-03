@@ -52,7 +52,7 @@ Command Line Arguments:
 
 For example:
 ```
-(venv) sumithsalluri@Sumiths-MacBook-Pro IML-Decision-Tree-CW % python3 fit_data.py --save_diagrams=True
+% python3 fit_data.py --save_diagrams=True
 ```
 
 Outputs:
